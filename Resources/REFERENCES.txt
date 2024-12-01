@@ -1,0 +1,19 @@
+Limiting JTextField to 5 letters and formatting in uppercase:
+https://www.rgagnon.com/javadetails/java-0198.html
+https://www.rgagnon.com/javadetails/java-0197.html
+
+Enter key functionality:
+https://stackoverflow.com/questions/4419667/detect-enter-press-in-jtextfield#:~:text=Action%20action%20%3D%20new%20AbstractAction()%0A%7B%0A%20%20%20%20%40Override%0A%20%20%20%20public%20void%20actionPerformed(ActionEvent%20e)%0A%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20System.out.println(%22some%20action%22)%3B%0A%20%20%20%20%7D%0A%7D%3B%0A%0AJTextField%20textField%20%3D%20new%20JTextField(10)%3B%0AtextField.addActionListener(%20action%20)%3B
+
+General tutorials on Java AWT and Swing:
+https://www.javatpoint.com/java-awt
+https://www.javatpoint.com/java-swing
+
+Coding solutions:
+https://stackoverflow.com/
+
+Help icon from Google Material Icons: 
+https://fonts.google.com/icons
+
+Wordle is created by Josh Wardle and owned by The New York Times
+https://www.nytimes.com/games/wordle/index.html
